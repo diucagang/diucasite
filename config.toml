@@ -8,7 +8,7 @@ theme = "blogge-hugo-theme"
 [menu]
   [[menu.main]]
     name = "Home"
-    url= "posts"
+    url= ""
     weight= 1
   [[menu.main]]
     name = "Categories"
