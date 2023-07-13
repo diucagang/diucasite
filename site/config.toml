@@ -1,4 +1,4 @@
-baseURL = "http://diucagang.fun/"
+baseURL = "https://diucagang.fun/"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
