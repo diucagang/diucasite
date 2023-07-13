@@ -2,17 +2,17 @@ baseURL = "https://diucagang.fun/"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
-title = "Blogge | Personal Blog Template"
+title = "Diucagang | Your trustworthy geek culture news site."
 theme = "blogge-hugo-theme"
 
 [menu]
   [[menu.main]]
     name = "Home"
-    url= ""
+    url= "posts"
     weight= 1
   [[menu.main]]
-    name = "About"
-    url= "about"
+    name = "Categories"
+    url= "tags"
     weight= 2
   [[menu.main]]
     name = "Contact"
@@ -22,16 +22,15 @@ theme = "blogge-hugo-theme"
 [params]
   summarylength = 80
   logo = "images/logo.svg"
-  author = "Mary Astor"
+  author = "GuideGod69"
   authorThumb = "images/author.png"
-  authorAddress = "Lorem 142 Str., 2352, Ipsum, State, USA"
-  authorPhone = "+33-257634 534"
-  instaUsername = "mary_astor"
-  facebookUsername = "mary_astor"
-  twitterUsername = "mary_astor"
-  linkedinUsername = "mary_astor"
-  blogTitle = "Articles"
-  blogSubTitle = "View the latest news on Blogger"
+  authorAddress = "Gamer Avenue, Bangladesh"
+  authorPhone = "+54-9999999"
+  instaUsername = "guidegod69"
+  facebookUsername = "guidegod69"
+  twitterUsername = "guidegod69"
+  blogTitle = "Latest News"
+  blogSubTitle = "View the latest news on your favourite entertainment."
   trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below

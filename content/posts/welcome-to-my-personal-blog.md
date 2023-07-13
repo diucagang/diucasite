@@ -1,7 +1,7 @@
 ---
-  title: "Welcome to My Personal Blog"
+  title: "Test"
   date: 2021-01-13T17:33:14+06:00
-  featured: true
+  featured: false
   tags: "travel"
   tranding: false
   readTime: "2 min"
